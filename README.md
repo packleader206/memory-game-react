@@ -25,11 +25,11 @@ To use, click the <strong>"Take Survey"</strong> button to get started.  Then, e
 
 ## Screenshots:
             
- <img src="https://packleader206.github.io/memory-game-react/public/screenshot1.png" alt="Home Page Screenshot">
+ <img src="https://packleader206.github.io/memory-game-react/public/screenshot1.png" alt="Screenshot1">
  
  <br>
  
- <img src="https://packleader206.github.io/memory-game-react/public/screenshot2.png" alt="Survey Screenshot">
+ <img src="https://packleader206.github.io/memory-game-react/public/screenshot2.png" alt="Screenshot2">
  
 
 
