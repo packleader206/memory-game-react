@@ -28,11 +28,11 @@ class App extends React.Component {
     // Filter for card id's that have been clicked
     const clickedMatch = cards.filter(card => card.id === id);
   
-    // If the image's clicked value is already true, run the game over function
-    if (clickedMatch[0].clicked){
+    // if the image's clicked value is already true, run the game over function
+    if (clickedMatch[0].clicked) {
       this.gameOver();
     
-    // Else if clicked = false, play continues
+    // else if clicked = false, play continues
     } else if (correctClicks < 11) {
       this.continuePlay(clickedMatch);
     
