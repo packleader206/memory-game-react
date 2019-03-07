@@ -32,7 +32,7 @@ Once you have Node JS installed, open up your cmd prompt and navigate to the dir
 
 ## Instructions:
 
-Users can start the game by clicking on any Superhero picture tile.  After each click, the Superhero tiles are shuffled.  Users score a point for each tile clicked that hasn't been clicked yet.  If the user clicks the same tile a second time before correctly getting them all, the game will start over and a message will notify the user of such.  Additionally, the keeps track of user's highest score for each game session.
+Users can start the game by clicking on any Superhero picture tile.  After each click, the Superhero tiles are shuffled.  Users score a point for each tile clicked that hasn't been clicked yet.  If the user clicks the same tile a second time before correctly getting them all, the game will start over and a message will notify the user of such.  The app will keep track of the user's highest score for each game session.
 
 ## [Click Here for a Live Demo](https://mighty-taiga-20181.herokuapp.com/)
 
