@@ -18,17 +18,14 @@ Marvel Superhero Memory Game is an app that tests the user's memory using Marvel
 
 ## Instructions:
 
-To use, click the <strong>"Take Survey"</strong> button to get started.  Then, enter your name and a URL link to your photo. Complete all of the questions in the survey, then hit <strong>"Submit"</strong>.  Your answers will then be evaluated against all members using our proprietary algorithm and your Best Match will be revealed.
+Users can start the game by clicking on any Superhero picture tile.  After each click, the Superhero tiles are shuffled.  Users score a point for each tile clicked that hasn't been clicked yet.  If the user clicks the same tile a second time before correctly getting them all, the game will start over and a message will notify the user of such.  Additionally, the keeps track of user's highest score for each game session.
 
-## [Click Here for a Live Demo](https://blooming-taiga-51598.herokuapp.com)
+## [Click Here for a Live Demo]()
 
 
 ## Screenshots:
             
  <img src="https://packleader206.github.io/memory-game-react/public/screenshot1.png" alt="Screenshot1">
- 
- <br>
- 
  <img src="https://packleader206.github.io/memory-game-react/public/screenshot2.png" alt="Screenshot2">
  
 
