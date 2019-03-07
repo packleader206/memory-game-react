@@ -1,4 +1,4 @@
-## Marvel Superhero Memory Game
+# Marvel Superhero Memory Game
 
 ## Overview:
 
