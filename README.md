@@ -28,7 +28,7 @@ Once you have Node JS installed, open up your cmd prompt and navigate to the dir
            
            - npm install ENTER
            
- <strong>Once npm install is complete, the app is ready to run! Simply type "npm start", to play the Marvel Superhero Memory Game!</strong>
+ <strong>Once npm install is complete, the app is ready to run! Simply enter the command "npm start", to play the Marvel Superhero Memory Game!</strong>
 
 ## Instructions:
 
