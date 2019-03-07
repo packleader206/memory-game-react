@@ -7,7 +7,7 @@ const Header = props => (
     <img 
       className="headerImg"
       src={logo} 
-      alt="Superhero Memory Game!"/>
+      alt="Marvel Superhero Memory Game!"/>
   </header>
 );
 
