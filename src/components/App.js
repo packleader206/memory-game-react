@@ -90,7 +90,7 @@ class App extends React.Component {
     correctClicks = 0;
   
     // All correct message
-    clickMessage = "Fantastic Job! You got them all, try it again!";
+    clickMessage = "Great Job, you got them all! Click to start again!";
     highScore = 12;
     this.setState({ highScore });
     
