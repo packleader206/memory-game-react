@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,  
+    "name": "image1",
+    "class": "superheroimage",
+    "image": "./assets/img/image1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "image2",
+    "class": "superheroimage",
+    "image": "./assets/img/image2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "image3",
+    "class": "superheroimage",
+    "image": "./assets/img/image3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "image4",
+    "class": "superheroimage",
+    "image": "./assets/img/image4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "image5",
+    "class": "superheroimage",
+    "image": "./assets/img/image5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "image6",
+    "class": "superheroimage",
+    "image": "./assets/img/image6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "image7",
+    "class": "superheroimage",
+    "image": "./assets/img/image7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "image8",
+    "class": "superheroimage",
+    "image": "./assets/img/image8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "image9",
+    "class": "superheroimage",
+    "image": "./assets/img/image9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "image10",
+    "class": "superheroimage",
+    "image": "./assets/img/image10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "image11",
+    "class": "superheroimage",
+    "image": "./assets/img/image11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "image12",
+    "class": "superheroimage",
+    "image": "./assets/img/image12.jpg"
+  }
+  ]
