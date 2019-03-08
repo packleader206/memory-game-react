@@ -20,7 +20,9 @@ Marvel Superhero Memory Game is an app that tests the user's memory using Marvel
 
 To run this application, you will need to have <a href="https://nodejs.org/en/download/">Node JS</a> installed on your computer.
 
-Once you have Node JS installed, open up your cmd prompt and navigate to the directory you would like to install this app. Then, run the following commands: 
+Once you have Node JS installed, open up your cmd prompt and navigate to the directory you would like to install this app. 
+
+Then, run the following commands: 
 
            - git clone https://github.com/packleader206/memory-game-react.git ENTER
            
